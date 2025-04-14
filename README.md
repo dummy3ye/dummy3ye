@@ -10,6 +10,8 @@
   <img height="220" width= "500" src="banner.jpg"  />
 </div>
 
+<a href=#><img src="contributions.svg"></a>
+
 # 🎵 Music
 <div align="center">
   <a href="https://open.spotify.com/user/31co6pnnolsipe4vivdevvxxj5i4">
