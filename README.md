@@ -11,7 +11,7 @@
 </div>
 
 # 🎵 Music
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31co6pnnolsipe4vivdevvxxj5i4">
     <img width= "600" align= "left" src="https://spotify-recently-played-readme.vercel.app/api?user=31co6pnnolsipe4vivdevvxxj5i4&count=5" alt="Spotify recently played"  />
   </a>
@@ -19,8 +19,8 @@
 
 ###
 
-###
 # 📊 Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=dummy3ye&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dummy3ye&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dummy3ye&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
