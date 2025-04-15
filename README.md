@@ -22,7 +22,7 @@
 # 🎵 Music
 <div align="center">
   <a href="https://open.spotify.com/user/31co6pnnolsipe4vivdevvxxj5i4">
-    <img width= "600" hight= "200" src="https://spotify-recently-played-readme.vercel.app/api?user=31co6pnnolsipe4vivdevvxxj5i4&count=5" alt="Spotify recently played"  />
+    <img width= "600" hight= "200" src="https://spotify-recently-played-readme.vercel.app/api?user=31co6pnnolsipe4vivdevvxxj5i4&count=1" alt="Spotify recently played"  />
   </a>
 </div>
 
