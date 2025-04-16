@@ -12,3 +12,5 @@
   <img src="visual3.jpg" style="width:30%; border-radius:8px; box-shadow:0 0 10px rgba(255,255,255,0.05);">
 </p>
 </div>
+
+https://www.facebook.com/share/g/12HMUBhHLBs/
