@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dummy3ye/waytosea/refs/heads/main/docs/website/assets/seaphone.jpg" align="left" height="350" style="margin-right: 20px;">
+<img src="https://raw.githubusercontent.com/dummy3ye/waytosea/refs/heads/main/website/assets/seaphone.jpg" align="left" height="350" style="margin-right: 20px;">
 <br>
 <div style="overflow: hidden;">
   <h3 style="margin-bottom: -1; height: 2px; width: 2px; border: none;">Sea</h3>
