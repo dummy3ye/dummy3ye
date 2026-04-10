@@ -10,7 +10,7 @@
   </p>
   
   <p>
-    <a href="https://instagram.com/nonvez">
+    <a href="https://instagram.com/nonvezzz">
       <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=INSTAGRAM&message=@NONVEZZZ&logoColor=102238&colorA=0C172A&colorB=99B3CA"/>
     </a>
   </p>
