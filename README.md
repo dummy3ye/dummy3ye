@@ -6,7 +6,7 @@
   <p>
     For years the only person,<br>
     I knew this well.<br>
-    was myself <br>   - Izumi Miyamura
+    was myself <br>   -  Miyamura
     
   </p>
   
