@@ -27,14 +27,13 @@
 ![Model Quantization](https://img.shields.io/badge/Quantization-111111?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Clustering](https://img.shields.io/badge/Clustering-111111?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=white)
-<h4>db, infra:</h4>
+<h4>db n infra:</h4>
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-FFC107?style=for-the-badge&logo=cncf&logoColor=black)
 <!---
 ![Clustering](https://img.shields.io/badge/Clustering-111111?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![K3s](https://img.shields.io/badge/K3s-FFC107?style=for-the-badge&logo=cncf&logoColor=black)
 --->
