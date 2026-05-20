@@ -26,7 +26,7 @@
 ![Model Quantization](https://img.shields.io/badge/Quantization-111111?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Clustering](https://img.shields.io/badge/Clustering-111111?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=white)
-<h4>db, infra and env:</h4>
+<h4>db, infra:</h4>
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -35,6 +35,8 @@
 ![Clustering](https://img.shields.io/badge/Clustering-111111?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![K3s](https://img.shields.io/badge/K3s-FFC107?style=for-the-badge&logo=cncf&logoColor=black)
+<h4>env:</h4>
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
