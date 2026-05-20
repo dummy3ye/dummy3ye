@@ -24,7 +24,6 @@
 ![Dataset Training](https://img.shields.io/badge/Dataset_Training-111111?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-111111?style=for-the-badge&logo=pytorch&logoColor=white)
 ![RLHF](https://img.shields.io/badge/RLHF-111111?style=for-the-badge&logo=openai&logoColor=white)
-![DPO](https://img.shields.io/badge/DPO-111111?style=for-the-badge&logo=stabilityai&logoColor=white)
 ![Model Quantization](https://img.shields.io/badge/Quantization-111111?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Clustering](https://img.shields.io/badge/Clustering-111111?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -34,17 +33,8 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<!---
 ![Clustering](https://img.shields.io/badge/Clustering-111111?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![K3s](https://img.shields.io/badge/K3s-FFC107?style=for-the-badge&logo=cncf&logoColor=black)
-<h4>env:</h4>
-
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![WezTerm](https://img.shields.io/badge/WezTerm-black?style=for-the-badge&logo=wezterm)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+--->
