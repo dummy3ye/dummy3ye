@@ -17,10 +17,10 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <h4>ml:</h4>
 
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-%23111111.svg?style=for-the-badge)
-![RLHF](https://img.shields.io/badge/RLHF-%23111111.svg?style=for-the-badge)
-![Model Quantization](https://img.shields.io/badge/Quantization-%23111111.svg?style=for-the-badge)
-![Dataset Training](https://img.shields.io/badge/Dataset_Training-%23111111.svg?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-111111?style=for-the-badge&logo=graphql&logoColor=white)
+![RLHF](https://img.shields.io/badge/RLHF-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Model Quantization](https://img.shields.io/badge/Quantization-111111?style=for-the-badge&logo=webassembly&logoColor=white)
+![Dataset Training](https://img.shields.io/badge/Dataset_Training-111111?style=for-the-badge&logo=kaggle&logoColor=white)
 <h4>db and infra:</h4>
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
