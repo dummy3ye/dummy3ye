@@ -1,10 +1,11 @@
-<h4>language n tools:</h4>
 <!--
+<h4>language n tools:</h4>
+
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Ada](https://img.shields.io/badge/Ada-002F6C?style=for-the-badge&logo=adafruit&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 -->
-
+<!---
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -24,6 +25,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Lighthouse CI](https://img.shields.io/badge/Lighthouse_CI-111111?style=for-the-badge&logo=watchtower&logoColor=white)
 <h4>ml:</h4>
+--->
+
+<!---
 
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-111111?style=for-the-badge&logo=graphql&logoColor=white)
 ![Data Curation](https://img.shields.io/badge/Data_Curation-111111?style=for-the-badge&logo=databricks&logoColor=white)
@@ -40,6 +44,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![K3s](https://img.shields.io/badge/K3s-FFC107?style=for-the-badge&logo=cncf&logoColor=black)
+--->
 <!---
 ![Clustering](https://img.shields.io/badge/Clustering-111111?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
