@@ -2,6 +2,8 @@
 <h4>language n tools:</h4>
 --->
 <h3 style = "align = center">  "and maybe the world hates me for exiting, but i don't hate anything, and what am i to do it anyways" </h3>
+[![GIT42 Planet — イムティヤズ](https://git42.dev/api/embed/planet/dummy3ye.svg)](https://git42.dev/u/dummy3ye)
+
 <!--
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Ada](https://img.shields.io/badge/Ada-002F6C?style=for-the-badge&logo=adafruit&logoColor=white)
