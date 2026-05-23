@@ -1,7 +1,11 @@
 <!--
 <h4>language n tools:</h4>
 --->
-<h3 style = "align = center;">  "and maybe the world hates me for exiting,<br> but i don't hate anything,<br> and what am i to do it anyways" </h3>
+<p align="center">
+    "And maybe the world hates me for existing,<br>
+    but I don't hate anything,<br>
+    and what am I to do about it anyways"
+</p>
 <!--
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Ada](https://img.shields.io/badge/Ada-002F6C?style=for-the-badge&logo=adafruit&logoColor=white)
