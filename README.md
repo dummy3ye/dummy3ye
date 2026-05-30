@@ -14,7 +14,7 @@
         but i wish you were right here<br>
         Oh, it's hard to leave you when I get you everywhere<br>
         All this time I'm thinking, I'm strong enough to sink it<br>
-        Oh, no, I don't need you,<br> but I miss you,<br>
+        Oh, no, I don't need you, but I miss you,<br>
         come here<br>
       </p>
     </td>
