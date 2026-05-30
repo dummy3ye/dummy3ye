@@ -6,7 +6,7 @@
     <td valign="top" style="padding: 0; padding-left: 30px; padding-top: 110px; border: none;">
       <p style="margin: 0; line-height: 1.6; color: #8b949e; font-style: italic; font-size: 15px;">
         At the End of the Night<br>
-        Wake up the morning, everything's alright<br>
+        Wake up the morning,<br> everything's alright<br>
         at the end of the story<br>
         You're holding me tight<br>
         i dont need to worry<br>
@@ -14,7 +14,7 @@
         but i wish you were right here<br>
         Oh, it's hard to leave you when I get you everywhere<br>
         All this time I'm thinking, I'm strong enough to sink it<br>
-        Oh, no, I don't need you, but I miss you,<br>
+        Oh, no, I don't need you,<br> but I miss you,<br>
         come here<br>
       </p>
     </td>
