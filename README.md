@@ -1,11 +1,16 @@
 <!--
 <h4>language n tools:</h4>
 --->
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="LoveMeNotBySkidoodFr.gif" alt="Forest" />
+</div>
+<!---
 <p align="center">
     "And maybe the world hates me for existing,<br>
     but I don't hate anything,<br>
     and who am I to do it anyways"
 </p>
+--->
 <!--
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Ada](https://img.shields.io/badge/Ada-002F6C?style=for-the-badge&logo=adafruit&logoColor=white)
