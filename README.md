@@ -8,7 +8,7 @@
         At the End of the Night<br>
         Wake up the morning, everything's alright<br>
         at the end of the story<br>
-        You're holding me tigh. i dont need to worry<br>
+        You're holding me tight. i dont need to worry<br>
         and oh its hard to see you,<br> but i wish you were right here<br>
         Oh, it's hard to leave you.<br> when I get you everywhere<br>
         All this time I'm thinking, I'm strong enough to sink it<br>
