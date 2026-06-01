@@ -1,4 +1,4 @@
-[![Nonvez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dummy3ye&theme=light)](https://github.com/dummy3ye/github-readme-activity-graph)
+[![Nonvez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dummy3ye&theme=vue)](https://github.com/dummy3ye/github-readme-activity-graph)
 <!---
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent; width: 100%;">
   <tr>
