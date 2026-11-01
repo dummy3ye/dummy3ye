@@ -1,6 +1,3 @@
->[!IMPORTANT]
-> currently on hiatus
-
 > [!NOTE]
 > il ove myw ife <3
 
