@@ -3,5 +3,5 @@
 
 discord: 3yeonly_<br>
 mail : [oxxlh@dcaky.cn](mailto:oxxlh@dcaky.cn)<br>
-linux kernel contributions : [lore.kernel.org](https://lore.kernel.org/all/?q=reza1234khan1234@gmail.com)<br>
-tester and contributor : [intel backlight](https://github.com/torvalds/linux/tree/master/drivers/gpu/drm/i915/display), [rtw88](https://github.com/torvalds/linux/tree/master/drivers/net/wireless/realtek/rtw88), [uvc](https://github.com/torvalds/linux/blob/master/drivers/media/usb/uvc/)
+tester and contributor : [intel backlight](https://github.com/torvalds/linux/tree/master/drivers/gpu/drm/i915/display), [rtw88](https://github.com/torvalds/linux/tree/master/drivers/net/wireless/realtek/rtw88), [uvc](https://github.com/torvalds/linux/blob/master/drivers/media/usb/uvc/)<br>
+linux kernel contributions : [lore.kernel.org](https://lore.kernel.org/all/?q=reza1234khan1234@gmail.com)
