@@ -1,5 +1,5 @@
-> [!NOTE]
-> il ove myw ife <3
+> [!IMPORTANT]
+> on hiatus
 
 discord: 3yeonly_<br>
 mail : [hi@arinaholic.me](mailto:hi@arinaholic.me)<br>
