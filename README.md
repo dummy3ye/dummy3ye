@@ -1,5 +1,9 @@
+
+[![dummy3ye on GitRanks: profile](https://gitranks.com/badge/user/dummy3ye/profile-card.svg?logo=0)](https://gitranks.com/profile/dummy3ye)
+
 > [!IMPORTANT]
 > on hiatus
+
 
 discord: 3yeonly_<br>
 mail : [hi@arinaholic.me](mailto:hi@arinaholic.me)<br>
